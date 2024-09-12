@@ -4,7 +4,7 @@
 
 int main(){
 
-    print("Aca estoy de nuevo C!");
+    printf("Aca estoy de nuevo C!");
 
     return 0;
 }
